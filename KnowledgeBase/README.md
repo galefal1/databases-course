@@ -11,8 +11,17 @@
 3. [TutorialsPoint](https://www.tutorialspoint.com/sql/index.htm) - sytax oriented
 4. [GeekForGeek](https://www.geeksforgeeks.org/sql-tutorial/) - syntax oriented
 5. [SQLBOLT](https://sqlbolt.com/) - Movies and Syntax oriented
+6. [Eliran Grosman's SQL course  (in Hebrew)](https://egrosman1.github.io/sql-course/index.html)
+
+# Courses
    
-# Market expectations
+1. [MIT very different oriented databases course](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010)
+2. [IBM introduction to SQL (edx)](https://www.edx.org/learn/sql/ibm-introduction-to-sql)
+3. [Harvard introduction to databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)
+4. [Learn Databases and SQL from Harvard University](https://www.freecodecamp.org/news/learn-databases-and-sql-from-harvard-university/)
+5. [Grokking Relational Database Design](https://github.com/StructuredCS/grokking-relational-database-design)
+   
+# SQL questions representing market expectations
 1. [GeeksForGeeks database interview questions](https://www.geeksforgeeks.org/database-interview-questions/)
 2. [Coursera](https://www.coursera.org/articles/sql-interview-questions)
 3. [Codefinity](https://codefinity.com/blog/The-50-Top-SQL-Interview-Questions-and-Answers)
@@ -21,6 +30,18 @@
 6. [datacamp](https://www.datacamp.com/blog/top-sql-interview-questions-and-answers-for-beginners-and-intermediate-practitioners)
 7. [GeeksForGeeks data analyst](https://www.geeksforgeeks.org/sql-questions-for-data-analyst-interview/)
 8. [Reddit](https://www.reddit.com/r/SQL/comments/y2up02/typical_sql_interview_questions_for_data_analysts/)
+9. [LeetCode](https://leetcode.com/studyplan/top-sql-50/)
+10. [5 SQL Questions 90% of Candidates Can’t Answer (But You Should)](https://levelup.gitconnected.com/5-sql-questions-90-of-candidates-cant-answer-but-you-should-803a3f5fa870)
+11. [Data lemur](https://datalemur.com/)
+12. [Strata scratch](https://www.stratascratch.com/blog/categories/sql/)
+13. [Hackerrank](https://www.hackerrank.com/domains/sql)
+14. [SQL practice](https://www.sqlpractice.in/) - online practie, nice uses of window function
+15. [Practice window functions](https://www.practicewindowfunctions.com/)
+
+
+# Sql games
+1. [SQL Murder Mystery](https://mystery.knightlab.com/)
+2. [SQL Habit Quest: The Bank Job](https://www.sqlhabit.com/quests/the-bank-job)
 
 # MySql use by code
 1. [MySql with python example](https://dev.mysql.com/doc/connector-python/en/connector-python-example-cursor-select.html)
@@ -49,3 +70,9 @@
 
 # Others
 1. [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
+2. [Anscombe’s Quartet and dinosaurs](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
+
+
+
+# APPS 
+1. [DATACAMP](https://www.datacamp.com/courses/introduction-to-sql?utm_source=google&utm_medium=paid_search&utm_campaignid=805200711&utm_adgroupid=155612384048&utm_device=c&utm_keyword=datacamp&utm_matchtype=e&utm_network=g&utm_adpostion=&utm_creative=733859308759&utm_targetid=kwd-297372810188&utm_loc_interest_ms=&utm_loc_physical_ms=1008004&utm_content=ps-other~emea-en~brd~pure~pure&accountid=9624585688&utm_campaign=220808_1-ps-brd~brd~branded_2-b2c_3-emea_4-rtw_5-na_6-na_7-le_8-pdsh-go_9-b-e_10-na_11-na&gad_source=1&gad_campaignid=805200711&gbraid=0AAAAADQ9WsFKegK0tpiEQ1Z5HLWAZK5GH&gclid=CjwKCAjw3rnCBhBxEiwArN0QE2T8waaYVbS_DN4ZzXjTThcl2JaA3xFgwsPzF09bQlYJLRpOsxA06BoC8r0QAvD_BwE) - Learn SQL and data skills with interactive mobile courses and real coding practice
