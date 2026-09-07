@@ -72,6 +72,7 @@
 # Others
 1. [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
 2. [Anscombe’s Quartet and dinosaurs](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
+3. [Awesome-Text2SQL-Dataset](https://github.com/sqlflash/Awesome-Text2SQL-Dataset)
 
 
 
